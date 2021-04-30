@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **dev.shakib1@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SXkyzRGcsBmphp9PUmVLWnAF_XkcJw2Z/view?usp=sharing](https://drive.google.com/file/d/1SXkyzRGcsBmphp9PUmVLWnAF_XkcJw2Z/view?usp=sharing)
+
 - ⚡ Fun fact **I think I will do any anything**
 
 
