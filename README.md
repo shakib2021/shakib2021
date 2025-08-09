@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakib2021" alt="shakib2021" /></a> </p>
 
-- 🔭 I’m currently working on [Ms-app](https://mobile-servicing-6b579.web.app)
+- 🔭 I’m currently working on [Hotel_M](https://hotelcse.netlify.app/)
 
 - 🌱 I’m currently learning **MongoDB./React/Node.js**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **dev.shakib1@gmail.com**
+- 📫 How to reach me **sakib.multiverse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SXkyzRGcsBmphp9PUmVLWnAF_XkcJw2Z/view?usp=sharing](https://drive.google.com/file/d/1SXkyzRGcsBmphp9PUmVLWnAF_XkcJw2Z/view?usp=sharing)
 
-- ⚡ Fun fact **I think I will do any anything**
+- ⚡ Fun fact **I think I will do anything**
 
 
 <h3 align="left">Languages and Tools:</h3>
